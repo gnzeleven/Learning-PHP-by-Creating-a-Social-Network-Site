@@ -28,13 +28,13 @@ An old school social network site built using HTML, CSS, Javascript, PHP and MyS
 ## Screenshots
 
 _Profile page_
-<img src='https://github.com/gnzeleven/Learning-PHP-by-Creating-a-Social-Network-Site/tree/main/images/profile.png' style='width: 200'>
+<img src='./images/profile.PNG' style='width: 200'>
 
 _Messages page_
-<img src='https://github.com/gnzeleven/Learning-PHP-by-Creating-a-Social-Network-Site/tree/main/images/messages.png' style='width: 200;' >
+<img src='./images/messages.PNG' style='width: 200;' >
 
 _Members page_
-<img src='https://github.com/gnzeleven/Learning-PHP-by-Creating-a-Social-Network-Site/tree/main/images/members.png' style='width: 200;' >
+<img src='./images/members.png' style='width: 200;' >
 
 ## Credits
 
