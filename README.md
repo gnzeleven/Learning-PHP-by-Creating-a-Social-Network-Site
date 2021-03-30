@@ -2,6 +2,8 @@
 
 An old school social network site built using HTML, CSS, Javascript, PHP and MySQL that implements all the CRUD operations.
 
+[click here](https://obscure-forest-14850.herokuapp.com/) to open the web app
+
 ## Features:
 
 - Sign up process
@@ -21,9 +23,14 @@ An old school social network site built using HTML, CSS, Javascript, PHP and MyS
 ## Built With
 
 - HTML, CSS, Javascript - Frontend
-- PHP - Backend
+- PHP 7.3.27 - Backend
 - MySQL - Database
 - [Easy PHP](https://www.easyphp.org/) - WAMP server
+- [Heroku](https://heroku.com/) - Cloud platform for deployment
+
+## Deployment Tutorial
+
+[Deploying PHP and MySQL webapp with Heroku](https://scotch.io/@phalconVee/deploying-a-php-and-mysql-web-app-with-heroku)
 
 ## Screenshots
 
