@@ -34,7 +34,7 @@ _Messages page_
 <img src='./images/messages.PNG' style='width: 200;' >
 
 _Members page_
-<img src='./images/members.png' style='width: 200;' >
+<img src='./images/members.PNG' style='width: 200;' >
 
 ## Credits
 
