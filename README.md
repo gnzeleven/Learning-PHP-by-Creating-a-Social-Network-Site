@@ -28,13 +28,13 @@ An old school social network site built using HTML, CSS, Javascript, PHP and MyS
 ## Screenshots
 
 _Profile page_
-<img src='./images/profile.png' style='width: 200'>
+<img src='/images/profile.png' style='width: 200'>
 
 _Messages page_
-<img src='./images/messages.png' style='width: 200;' >
+<img src='/images/messages.png' style='width: 200;' >
 
 _Members page_
-<img src='./images/members.png' style='width: 200;' >
+<img src='/images/members.png' style='width: 200;' >
 
 ## Credits
 
