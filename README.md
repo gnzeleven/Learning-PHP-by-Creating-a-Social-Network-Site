@@ -1,10 +1,10 @@
-# Learning PHP by doing a project
+# Learning PHP by creating a Social Network site
 
 An old school social network site built using HTML, CSS, Javascript, PHP and MySQL that implements all the CRUD operations.
 
 [click here](https://obscure-forest-14850.herokuapp.com/) to open the web app
 
-## Features:
+## Features
 
 - Sign up process
 - Login/Logout facility
