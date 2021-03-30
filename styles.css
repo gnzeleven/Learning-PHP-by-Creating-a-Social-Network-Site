@@ -1,0 +1,93 @@
+/* styles.css */
+* {
+    font-family:verdana,sans-serif;
+    font-size :14pt;
+  }
+
+body {
+      width :700px;
+      position :relative;
+      margin :7px auto;
+      background:#e4eff5;
+      border :1px solid #888;
+    }
+
+html {
+      background:#fff
+    }
+
+img {
+      border :1px solid black;
+      margin-right :15px;
+      -moz-box-shadow :2px 2px 2px #888;
+      -webkit-box-shadow:2px 2px 2px #888;
+      box-shadow :2px 2px 2px #888;
+    }
+
+li a, .button {
+                text-decoration:none;
+              }
+
+li a:hover, .button:hover {
+                            color:green;
+                          }
+
+.appname {
+           text-align :center;
+           background :#97babc;
+           color :#693298;
+           font-family:helvetica;
+           font-size :20pt;
+           padding :4px;
+         }
+
+.fieldname {
+             float:left;
+             width:120px;
+           }
+
+.main {
+        margin-left:40px;
+      }
+
+.info {
+        background :lightgreen;
+        color :blue;
+        border :1px solid green;
+        padding :5px 10px;
+        margin-left:40px;
+      }
+.menu li, .button {
+                    display :inline;
+                    padding :4px 6px;
+                    border :1px solid #777;
+                    background :#d0c391;
+                    color :#3e3c41;
+                    margin-right :8px;
+                    border-radius :5px;
+                    -moz-box-shadow :2px 2px 2px #888;
+                    -webkit-box-shadow:2px 2px 2px #888;
+                    box-shadow :2px 2px 2px #888;
+                  }
+
+  .resizedText {
+                  width:180px;
+               }
+
+ .subhead {
+            font-weight:bold;
+          }
+
+.taken, .error {
+                  color      :red;
+                  font-size  :12px;
+               }
+.available {
+              color      :green;
+              font-size  :12px;
+           }
+
+.whisper {
+          font-style:italic;
+          color :#006600;
+         }
