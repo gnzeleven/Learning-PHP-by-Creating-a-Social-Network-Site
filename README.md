@@ -1,4 +1,4 @@
-# Learning PHP by creating a Social Network site
+# PHP Social Network site
 
 An old school social network site built using HTML, CSS, Javascript, PHP and MySQL that implements all the CRUD operations.
 
